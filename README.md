@@ -9,11 +9,11 @@
 <h1 align="center">React + Redux</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/fabramosdev/redux?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/fabramosdev/react-redux?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/fabramosdev/redux?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/fabramosdev/react-redux?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/fabramosdev/redux?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/fabramosdev/react-redux?color=56BEB8">
 
   <!-- <img alt="License" src="https://img.shields.io/github/license/fabramosdev/redux?color=56BEB8"> -->
 
