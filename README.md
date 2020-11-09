@@ -90,7 +90,10 @@ $ cd react-redux
 # Install dependencies
 $ yarn
 
-# Run the project
+# Run JSON Server First
+$ yarn server
+
+# Now, run the project
 $ yarn start
 
 # The server will initialize in the <http://localhost:3000>
